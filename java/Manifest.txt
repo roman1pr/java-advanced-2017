@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Priiskalov Roman
+Main-Class: ru.ifmo.ctddev.solutions.implementor.Implementor
+Class-Path: .
